@@ -15,7 +15,7 @@ W terminalu wykonaj:
 
 * z4.py = nazwa TEGO pliku
 
-
+Drugi zestaw danych zaczerpniety z: https://www.kaggle.com/datasets/prishasawhney/mushroom-dataset
 """
 
 import pandas as pd
